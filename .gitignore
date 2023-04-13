@@ -1,0 +1,7 @@
+# Project exclude paths
+/ArreList/ArreList/target/
+/ArreList/untitled/target/
+/LinkList/LinkList/target/
+/Queue/Queue/target/
+/Stack/Stack/target/
+/StringAPI/StringAPI/target/

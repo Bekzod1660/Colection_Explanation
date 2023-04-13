@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="StringAPI" />
+        <module name="untitled" />
+        <module name="ModulTakrollash" />
+        <module name="ArreList" />
+        <module name="LinkList" />
+        <module name="Map" />
+        <module name="Queue" />
+        <module name="Stack" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ArreList" target="19" />
+      <module name="LinkList" target="19" />
+      <module name="Map" target="19" />
+      <module name="ModulTakrollash" target="19" />
+      <module name="Queue" target="19" />
+      <module name="Stack" target="19" />
+      <module name="StringAPI" target="19" />
+      <module name="untitled" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

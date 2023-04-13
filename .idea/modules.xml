@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3ModulTakrollash.iml" filepath="$PROJECT_DIR$/.idea/3ModulTakrollash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArreList/ArreList/ArreList.iml" filepath="$PROJECT_DIR$/ArreList/ArreList/ArreList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkList/LinkList/LinkList.iml" filepath="$PROJECT_DIR$/LinkList/LinkList/LinkList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModulTakrollash/ModulTakrollash.iml" filepath="$PROJECT_DIR$/ModulTakrollash/ModulTakrollash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringAPI/StringAPI/StringAPI.iml" filepath="$PROJECT_DIR$/StringAPI/StringAPI/StringAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArreList/untitled/untitled.iml" filepath="$PROJECT_DIR$/ArreList/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
